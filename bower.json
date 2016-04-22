@@ -1,0 +1,24 @@
+{
+    "name": "leaflet-angular",
+    "main": "index.js",
+    "version": "1.0.0",
+    "authors": [
+        "vasiliys492 <vasiliys492@gmail.com>"
+    ],
+    "description": "",
+    "license": "MIT",
+    "homepage": "",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "angular": "1.5.5",
+        "angular-leaflet-directive": "https://github.com/tombatossals/angular-leaflet-directive.git#^0.10.0",
+        "Leaflet.PolylineDecorator": "https://github.com/bbecquet/Leaflet.PolylineDecorator.git",
+        "leaflet-plugins": "*"
+    }
+}

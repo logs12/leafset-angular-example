@@ -1,0 +1,5 @@
+## Getting started
+
+```
+bower install
+```
